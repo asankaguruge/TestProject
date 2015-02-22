@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/cssparser-0.9.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/cucumber-core-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/cucumber-java-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/cucumber-junit-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/gradle-cobertura-plugin-2.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/gson-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/htmlunit-2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/htmlunit-core-js-2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/httpmime-4.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/phantomjsdriver-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/selenium-java-2.44.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asanka/Downloads/Cucumber/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
